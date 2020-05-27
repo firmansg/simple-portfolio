@@ -1,0 +1,3 @@
+Scrolling(smooth efek),
+Gallery(efek parallax),
+Circle image in Jumbotron
